@@ -1,0 +1,21 @@
+Id,Product_Name,Sales_Executive,Sales_Amount,Rate_per_Unit
+1,Office Supplies,SATISH,3000,1500
+2,Furniture,SATISH,25000,1000
+3,Furniture,SATISH,30000,1000
+4,Office Supplies,RAMESH,4500,1500
+5,Office Supplies,RAMESH,6000,1500
+6,Office Supplies,RAMESH,4500,1500
+7,Office Supplies,SATISH,6000,1500
+8,Technology,SATISH,8000,4000
+9,Office Supplies,RAMESH,3000,1500
+10,Technology,SATISH,16000,4000
+11,Office Supplies,RAMESH,3000,1500
+12,Office Supplies,MANOJ,6000,1500
+13,Furniture,MANOJ,20000,1000
+14,Office Supplies,MANOJ,4500,1500
+15,Office Supplies,MANOJ,6000,1500
+16,Office Supplies,RAMESH,3000,1500
+17,Office Supplies,MANOJ,1500,1500
+18,Furniture,MANOJ,12000,1000
+19,Office Supplies,RAMESH,3000,1500
+20,Office Supplies,MANOJ,3000,1500
